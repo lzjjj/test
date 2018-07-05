@@ -12,3 +12,4 @@ function collectSameElements(collectionA, collectionB) {
   }
   return collectionC;
 }
+ 
